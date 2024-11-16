@@ -1,0 +1,12 @@
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/flutter_grpc_chat
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/secona/dev/sandbox/flutter-grpc-chat/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
